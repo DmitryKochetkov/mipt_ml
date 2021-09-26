@@ -1,0 +1,5 @@
+# Only specified folders are tracked
+
+*
+!.gitignore
+!/assignment1_linear_regression*
