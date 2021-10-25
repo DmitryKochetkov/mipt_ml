@@ -3,3 +3,5 @@
 *
 !.gitignore
 !/assignment1_linear_regression*
+!/assignment2_decision_tree*
+!/assignment3_svm*
